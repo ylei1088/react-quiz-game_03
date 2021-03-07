@@ -5,19 +5,19 @@ function AboutPage() {
   return (
     <main>
       <h1>About Me</h1>
-
-      <h2>Mike Hadley</h2>
-      <p>
-        We're learning HTML <em>together</em>!
-      </p>
+      <h2>Vicki Lei</h2>
+      <p>Weclome to my HTML Webpage!</p>
 
       <p>Some things I've been doing lately:</p>
-      <ul className="emoji-list">
-        <li>Learning to make sauerkraut</li>
-        <li>Cooking my way through a cookbook</li>
-        <li>Making cold brew</li>
+
+      <ul>
+        <li>Trying to make Pecan Pie</li>
+        <li>Going back to the gym</li>
+        <li>Learn how to play a ukulele</li>
       </ul>
+
       <p>Some languages I am going to be using:</p>
+
       <ul className="emoji-list">
         <li>HTML</li>
         <li>CSS</li>
@@ -25,24 +25,19 @@ function AboutPage() {
         <li>TS</li>
         <li>React</li>
       </ul>
-      <p>Demo list:</p>
-      <ul>
-        <li>Some</li>
-        <li>Other</li>
-        <li>Stuff</li>
-      </ul>
 
       <p>
-        An app I used daily is{" "}
-        <a
-          href="https://todoist.com"
-          target="_blank"
-          rel="noreferrer"
-          title="Software recommendation"
-        >
-          Todoist
+        An app I used daily is
+        <a href="https://www.spotify.com/us/" target="_blank" title="music">
+          Spotify
         </a>
-        .
+      </p>
+
+      <p>
+        Link to my
+        <a href="https://www.linkedin.com/in/yongxin-lei/" title="linkedin">
+          Linkedin
+        </a>
       </p>
 
       <img src={animationImage} alt="Some cool art" width="300" />
