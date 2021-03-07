@@ -36,13 +36,6 @@ function AboutPage() {
         </a>
       </p>
 
-      <p>
-        Link to my
-        <a href="https://www.linkedin.com/in/yongxin-lei/" title="linkedin">
-          Linkedin
-        </a>
-      </p>
-
       <img src={animationImage} alt="Some cool art" width="300" />
     </main>
   );
