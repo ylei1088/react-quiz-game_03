@@ -8,6 +8,8 @@ function AboutPage() {
       <h2>Vicki Lei</h2>
       <p>Weclome to my HTML Webpage!</p>
 
+      <p>Hi 🐞</p>
+
       <p>Some things I've been doing lately:</p>
 
       <ul>
